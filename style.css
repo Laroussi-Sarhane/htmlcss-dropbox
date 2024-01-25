@@ -1,0 +1,51 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.debug{
+  background-color: aqua;
+}
+/* header inizio */
+header{
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo{
+  padding: 30px 10px;
+  font-size: 85px;
+}
+
+.left-nav{
+  position: absolute;
+  left: 150px;
+}
+.right-nav{
+  margin-top: 40px;
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+nav ul li a{
+  text-decoration: none;
+  display: inline-block;
+  color: #201F20;
+  padding: 5px 10px;
+  font-size: 1.1rem;
+}
+#click{
+  display: inline-block;
+  background-color: #094CB8;
+  color: white;
+  width: 70px;
+  height: 35px;
+  text-align: center;
+  line-height: 35px;
+}
+
+

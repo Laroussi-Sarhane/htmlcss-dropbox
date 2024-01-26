@@ -65,6 +65,7 @@ nav ul li a:hover{
   width: 1200px;
   
   
+  
 }
 h1{
   font-size: 3.2rem;
@@ -73,15 +74,14 @@ h1{
 }
 .jumbotron{
   background-color: #B4D0E7;
-  height: 550px;
- 
+  height: 600px;
 }
 .content{
-  width: 750px;
+  width: 800px;
   max-width: 800px;
   text-align: center;
   height: 150px;
-  margin-top: 50px;
+  
 }
 .colon{
   flex-direction: column;
@@ -92,9 +92,20 @@ h1{
 }
 .container-testo{
   height: 330px;
-  width: 270px;
+  width: 35%;
   margin:2px;
   border: #201F20;
+}
+.box-img{
+width: 65%;
+
+}
+.box-img .img-jumbo{
+  max-width: 100%;
+  position: absolute;
+  top: 150px;
+  object-fit: cover;
+  
 }
 
 

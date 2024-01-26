@@ -81,6 +81,7 @@ h1{
   max-width: 800px;
   text-align: center;
   height: 150px;
+  padding-top: 25px;
   
 }
 .colon{
@@ -89,12 +90,14 @@ h1{
 .container-text-img{
   width: 800px;
   height: 330px;
+  padding-top: 10px;
 }
 .container-testo{
   height: 330px;
   width: 35%;
   margin:2px;
   border: #201F20;
+  
 }
 .box-img{
 width: 65%;

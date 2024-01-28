@@ -108,6 +108,9 @@ nav ul li a:hover{
 .mb-m{
   margin-bottom: 15px;
 }
+.mb-ml{
+  margin-bottom: 30px;
+}
 .descrione{
   margin-left: 0;
 }
@@ -122,4 +125,102 @@ nav ul li a:hover{
 .container .box-img img{
   max-width:130%; 
 }
+/* inizio main section  */
+.mb-big{
+  margin-bottom: 50px;
+}
+.container-section{
+  width: 98%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.small-title{
+  justify-content:fl;
+  height: 100px;
+  width: 550px;
+  font-size: 1.2rem;
+  margin-left: 0;
+  margin-top: 100px;
+  max-width: 99%;
+  padding: 10px;
+}
+
+}
+.mg-right{
+  margin-left:0px;
+}
+.bottons{
+  justify-content: flex-start;
+  height: 40px;
+  width: 300px;
+  margin-left: 0;
+  max-width: 100%;
+  width: 55%;
+  padding: 10px 5px;
+}
+.colonne{
+  justify-content: space-between;
+  height: 750px;
+  flex-wrap: nowrap;
+}
+.singolo{
+  width: 220px;
+  border: 1px solid #E0E0E2;
+  margin-left: 0;
+}
+.padding-left{
+  padding-left: 15px;
+}
+.starter{
+  text-align: center;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid #E0E0E2;
+}
+.padding-top{
+  padding-top: 15px;
+}
+.padding-top-big{
+  padding-top: 35px;
+}
+.padding-top-sml{
+  padding-top: 8px;
+}
+.periodo-abb{
+  color: #E0E0E2;
+  font-size: 11px;
+}
+.info-1 span{
+font-size: smaller;
+line-height:5px;
+}
+.botton-cta{
+  width: 180px;
+  height: 31px;
+  background-color: #094CB8;
+}
+.botton-cta a{
+  width: 90%;
+  padding:10px 10px ;
+  text-decoration: none;
+  color: white;
+  font-size: smaller;
+}
+.font{
+  font-size: smaller;
+}
+.hr-box{
+  width: 30px;
+  height: 20px;
+  margin-left:15px;
+  border-bottom: 1px solid #F3F3F4;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.punti-salienti{
+  margin-left: 15px;
+  margin-bottom: 20px;
+}
+
+
 

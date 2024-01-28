@@ -144,10 +144,11 @@ nav ul li a:hover{
   max-width: 99%;
   padding: 10px;
 }
-
-}
 .mg-right{
   margin-left:0px;
+}
+.mb-l{
+  margin-bottom: 30px;
 }
 .bottons{
   justify-content: flex-start;
@@ -220,6 +221,65 @@ line-height:5px;
 .punti-salienti{
   margin-left: 15px;
   margin-bottom: 20px;
+}
+.container-buttom{
+  width: 98%;
+  max-width: 800px;
+  margin: 0 auto;
+  height: 190px;
+  margin-top: 35px;
+  position: relative;
+  border: 2px solid #F3F3F4;
+}
+.top-box{
+  text-align: center;
+  font-size: smaller;
+  border-bottom: 1px solid #F3F3F4;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.entreprise-text p{
+  font-size: smaller;
+}
+.entreprise-text{
+  max-width: 470px;
+  margin-left: 12px;
+}
+.botton-table{
+  position: absolute;
+  top: 60px;
+  right: 25px;
+  width: 98%;
+  max-width: 98%;
+  width: 180px;
+  height: 31px;
+  background-color: #094CB8;
+}
+.botton-table a{
+  font-size: small;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+}
+.container-buttom-double{
+  width: 98%;
+  max-width: 800px;
+  margin: 0 auto;
+  height: 370px;
+  margin-top: 35px;
+  
+
+}
+.box-img-buttom img{
+  width: 100%;
+  height: 350px;
+}
+.container-buttom-double .box-text-buttom{
+  width: 45%;
+  padding-top: 40px;
+  max-width: 85%;
+  paddi
+
 }
 
 

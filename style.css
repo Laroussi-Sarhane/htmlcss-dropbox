@@ -301,6 +301,7 @@ line-height:5px;
 .card{
   width: calc(100% /3);
   height: 370px;
+  margin-bottom: 80px;
 }
 .img-card{
   height: 190px;
@@ -318,6 +319,18 @@ line-height:5px;
 }
 .card-text p{
 font-size: smaller;
+}
+title .box-tit h3{
+  width: 425px;
+}
+.cta-link{
+  height: 50px;
+  width: 900px;
+  padding: 40px 0
+  justify-content: flex-start;
+}
+.title .cta-link a{
+  font-size: x-small;
 }
 
 

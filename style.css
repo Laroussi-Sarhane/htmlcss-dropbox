@@ -368,6 +368,8 @@ title .box-tit h3{
   height:350px;
   padding-top: 130px;
   position: relative;
+  padding-bottom: 130px;
+  margin-bottom: 110px;
 }
 .contenitore-descrittivo h1{
   font-size: 2rem;
@@ -386,15 +388,47 @@ title .box-tit h3{
   background-color: white;
 }
 .bottone-cta-descrittivo a{
-  font-size: small;
-  justify-content: center;
-  align-items: center;
+  font-size: 0.9rem;
   text-decoration: none;
   text-align: center;
-  padding-top: 30px;
-
-  
+  padding-top: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
+.contenitore-domande{
+  justify-content: flex-start;
+  height: 230px;
+  width: 820px;
+  font-size: 1.7rem;
+  padding: 25px 0;
+  margin-left: 0;
+  flex-direction: column;
+  margin-left: 275px;
+  position: relative;
+  border-top: 2px solid grey ;
+  border-bottom: 2px solid grey ;;
+} 
+
+.prima{
+  height: 70px;
+  border-top: 2px solid grey ;
+  align-items: flex-start;
+  padding-top: 15px;
+}
+.prima .chevron{
+  position: absolute;
+  right: 25px;
+  font-size: 12px;
+}
+.contenitore-domande h6{
+font-size: small;
+justify-content: center;
+position: absolute;
+left: 5px;
+border-bottom: 2px solid grey ;
+}
+
+
 
 
 

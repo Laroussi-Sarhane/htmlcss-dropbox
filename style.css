@@ -277,10 +277,50 @@ line-height:5px;
 .container-buttom-double .box-text-buttom{
   width: 45%;
   padding-top: 40px;
-  max-width: 85%;
-  paddi
-
+  max-width: 80%;
 }
+.container-buttom-double{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.botn{
+  width: 150px;
+  height: 40px;
+  padding: 12px;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 25px;
+  padding-bottom: 15px;
+}
+.container-cards{
+  flex-wrap: wrap;
+  width: 98%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.card{
+  width: calc(100% /3);
+  height: 370px;
+}
+.img-card{
+  height: 190px;
+}
+.img-card img{
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+.card-title{
+  margin-top: 10px;
+}
+.card-text{
+  margin-top: 10px;
+}
+.card-text p{
+font-size: smaller;
+}
+
+
 
 
 

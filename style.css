@@ -328,10 +328,41 @@ title .box-tit h3{
   width: 900px;
   padding: 40px 0
   justify-content: flex-start;
+  margin-bottom: 90px; 
 }
 .title .cta-link a{
   font-size: x-small;
+  margin-bottom: 90px;
 }
+.contenitore-totale{
+  height: 550px;
+}
+.contenitore-totale .cont-sponsor .cont-description{
+  height: 550px;
+  width: calc(100%/3);
+  margin-left: 0;
+  margin-right: 0;
+  justify-content: space-between;
+}
+.box-sponsor{
+  height: 240px;
+  width: 240px;
+  aspect-ratio: 1/1;
+}
+.cont-sponsor .box-sponsor{
+  flex-wrap: wrap;
+}
+.cont-sponsor{
+  width: 500px;
+}
+.box-interno img{
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
 
 
 
